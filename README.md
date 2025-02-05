@@ -4,7 +4,7 @@ I'm  a Ph.D. holder, motivated researcher, scientist, and data analyst, I have r
 
 
 - 🔭 I’m currently working on improving my skills as a NLP engineer .
-- 🌱 I'm currently curious about Medical Research .
+- 🌱 I'm  curious about Medical Research  and Remote sensing .
 - 👯 I'm looking to collaborate on Research projects.
 - 💬 Ask me about  Python,Data Science ,Graph ,System Design ,Programming Design.
 - 📫 How to reach me:
